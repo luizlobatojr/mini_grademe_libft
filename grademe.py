@@ -25,6 +25,8 @@ LIBFT_H = """#ifndef LIBFT_H
 # define LIBFT_H
 
 # include <stddef.h>
+# include <stdio.h>
+# include <unistd.h>
 
 typedef struct s_list
 {
